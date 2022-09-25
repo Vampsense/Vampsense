@@ -3,13 +3,12 @@
 </p>
 
 # Info
-Packet Client is an MCBE Utility mod made by: Packet, Deq, Swed, NRG and Founder
 
-Packet Client is a fork of the Horion Client
+Vampsense is a Da Hood script which is basically just demise.cc but free! Cause who wants to pay for a script!
 
 
 ## Credits
 
-The original Horion developers
+The original Demise developers
 
-Steve's Noob#2585
+idk lmao they don't deserve credit
